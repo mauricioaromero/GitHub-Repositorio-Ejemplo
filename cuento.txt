@@ -1,0 +1,3 @@
+Prologo
+
+Creacion de un prologo para seguimiento con GitHub de Escritorio.
