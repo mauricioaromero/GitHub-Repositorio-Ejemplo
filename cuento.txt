@@ -5,3 +5,7 @@ Creacion de un prologo para seguimiento con GitHub de Escritorio.
 Contenido 1
 
 Se agrega contenido para hacer test de descarga desde GitHub.
+
+Contenido 2
+
+Se agrega contenido desde repositorio local para verificar carga a GitHub
